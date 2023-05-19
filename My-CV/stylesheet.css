@@ -1,0 +1,45 @@
+body {
+  font-size: 15px;
+  font-family: serif;
+}
+
+img {
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
+  vertical-align: middle;
+}
+
+.info-container {
+  display: flex;
+  align-items: left;
+}
+
+.books {
+  padding: 1px;
+}
+th,
+td {
+  padding: 4px;
+}
+
+.text-header {
+  margin-left: 20px;
+}
+
+.skills-col {
+  margin-left: 10px;
+}
+
+.work {
+  margin-left: 10px;
+}
+
+.blue {
+  color: blue;
+}
+
+a {
+  color: purple;
+}
